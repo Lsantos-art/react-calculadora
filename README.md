@@ -19,8 +19,7 @@ Você também poderá ver os erros diretamente no console.
 
 ## Exemplo de aplicação em produção:
 
-Para rodar este faça:
-[https://react-ls-calculator.herokuapp.com/](https://react-ls-calculator.herokuapp.com/).
+[https://react-ls-calculator.herokuapp.com/](https://react-ls-calculator.herokuapp.com/)
 
 <hr>
 
