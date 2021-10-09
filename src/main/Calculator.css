@@ -1,3 +1,10 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .calculator {
   height: 320px;
   width: 235px;
